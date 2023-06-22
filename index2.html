@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://kit.fontawesome.com/514fec19c7.js" crossorigin="anonymous"></script>
+</head>
+<style>
+  .hidden {
+    display: none;
+  }
+
+  .hover-shake {
+    transition: transform 0.4s;
+  }
+
+  .hover-shake:hover {
+    transform: rotate(20deg);
+  }
+</style>
+
+<body>
+  <div>
+    <li class="hover">
+      <img id="home" src="img/icon-home.png" onmouseover="changeImageSrc(this, 'img/icon-home-fill.png')"
+        onmouseout="changeImageSrc(this, 'img/icon-home.png')" class="hover-shake">
+    </li>
+    <li class="hover">
+      <img id="message" src="img/icon-message-circle.png"
+        onmouseover="changeImageSrc(this, 'img/icon-message-circle-fill.png')"
+        onmouseout="changeImageSrc(this, 'img/icon-message-circle.png')" class="hover-shake">
+    </li>
+    <li class="hover">
+      <img id="write" src="img/icon-edit.png" onmouseover="changeImageSrc(this, 'img/icon-edit-fill2.png')"
+        onmouseout="changeImageSrc(this, 'img/icon-edit.png')" class="hover-shake">
+    </li>
+    <li class="hover">
+      <img id="profile" src="img/icon-user.png" onmouseover="changeImageSrc(this, 'img/icon-user-fill.png')"
+        onmouseout="changeImageSrc(this, 'img/icon-user.png')" class="hover-shake">
+    </li>
+  </div>
+  <script>
+    function changeImageSrc(element, newSrc) {
+      element.src = newSrc;
+    }
+  </script>
+</body>
+
+</html>

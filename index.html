@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <script src="https://kit.fontawesome.com/514fec19c7.js" crossorigin="anonymous"></script>
+</head>
+<style>
+  #user-icon:hover {
+    color: pink;
+  }
+</style>
+
+
+<body>
+  <div>
+    <li class="hover">
+      <img id="home" src="img/icon-home.png" onmouseover="changeImageSrc(this, 'img/icon-home-fill.png')"
+        onmouseout="changeImageSrc(this, 'img/icon-home.png')">
+    </li>
+    <li class="hover">
+      <img id="message" src="img/icon-message-circle.png"
+        onmouseover="changeImageSrc(this, 'img/icon-message-circle-fill.png')"
+        onmouseout="changeImageSrc(this, 'img/icon-message-circle.png')">
+    </li>
+    <li class="hover">
+      <img id="write" src="img/icon-edit.png" onmouseover="changeImageSrc(this, 'img/icon-edit-fill2.png')"
+        onmouseout="changeImageSrc(this, 'img/icon-edit.png')">
+    </li>
+    <li class="hover">
+      <img id="profile" src="img/icon-user.png" onmouseover="changeImageSrc(this, 'img/icon-user-fill.png')"
+        onmouseout="changeImageSrc(this, 'img/icon-user.png')">
+    </li>
+
+    <i id="user-icon" class="fa-regular fa-user" style="color: #767676;"
+      onmouseover="changeIconClass(this, 'fa-solid fa-user fa-shake', '#81D8D0')"
+      onmouseout="changeIconClass(this, 'fa-regular fa-user', '#767676')"></i>
+
+    <!-- <i class="fa-regular fa-user fa-shake" style="color: #767676;"></i>
+    <i class="fa-solid fa-user fa-shake" style="color: #81D8D0"></i> -->
+    <!-- 
+    <li class="hover">
+      <i class="fa-solid fa-house"></i>
+    </li>
+    <li class="hover">
+      <i class="fa-regular fa-square-plus"></i>
+    </li>
+    <li class="hover">
+      <i class="fa-regular fa-square-plus"></i>
+    </li>
+    <li class="hover">
+      <i class="fa-regular fa-user"></i>
+      <i class="fa-solid fa-user hidden" style="color: #2f9231;"></i>
+    </li> -->
+  </div>
+  <script>
+    function changeImageSrc(element, newSrc) {
+      element.src = newSrc;
+    }
+    function changeIconClass(element, newClass, newColor) {
+      if (element.classList.contains("fa-shake")) {
+        element.classList.remove("fa-shake");
+      }
+      element.className = newClass;
+      element.style.color = newColor;
+    }
+  </script>
+</body>
+
+</html>
