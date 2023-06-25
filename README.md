@@ -100,14 +100,33 @@ remove      : 파일을 삭제하는 작업만 수행한 경우
 ```
 
 ### 브랜치 전략
-- GitHubFlow: 
+- GitHubFlow: 비교적 단순하고 직관적인 구조를 가지고 있어, 작은 규모의 단기간 프로젝트에 팀원들이 쉽게 학습하고 적용할 수 있어 이 전략을 선택하였습니다. 
 
 
 ## 7. 기술 스택 
+1. 프론트엔드 기술
+- <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+- <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+- <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+- <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black">
 
+2. 백엔드
+멋쟁이사자처럼 프론트엔드 스쿨에서 제공된 API 사용
+
+3. 도구 및 라이브러리
+
+<img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+
+
+4. 협업 및 프로젝트 관리
+
+5. 디자인
+
+7. IDE 
 |사용 기술|  값2|
 |-------|-------|
-| 사용 기술   | 값2   |
+| 사용 기술   | <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> |
 | 패키지   | 값4   |
 | 포맷터   | 값6   |
 | 협업   | 값8   |
