@@ -1,20 +1,20 @@
-# TravelUS 🚌🧳🚗 ::  
+# TravelUS 🚌🧳🚗
 🔗[TravelUs 바로가기](https://developer-sala.github.io/icontest/)
 - ID: jun123@naver.com
 - PW: 123123
 
 ### 목차
-1. 서비스 소개
-2. 개발 기간
-3. 팀원 소개
-4. 역할 분담
-5. 프로젝트 목표
-6. 컨벤션
-7. 개발 환경
-8. 폴더 구조
-9. 주요 기능 및 특징
-10. 프로젝트 관련 문서
-11. 프로젝트 소감
+1. [서비스 소개](#1. TravelUs-서비스-소개-🚌)
+2. [개발 기간](#2. 개발-기간)
+3. [팀원 소개](#3. 팀원 소개)
+4. [역할 분담](#4. 역할 분담)
+5. [프로젝트 목표](#5. 프로젝트 목표)
+6. [컨벤션](#6. 컨벤션)
+7. [개발 환경](#7. 개발 환경)
+8. [폴더 구조]()
+9. [주요 기능 및 특징]()
+10. [프로젝트 관련 문서]()
+11. [프로젝트 소감]()
 
 ## 1. TravelUs 서비스 소개 🚌
 서비스명 TravelUs는 "Travel"과 "Us"의 합성어로, 함께 여행하자는 의미를 담고 있습니다.
@@ -38,5 +38,43 @@ Hello, there! 저희는 4명의 Front-End 개발자로 구성된 **Fearless 4** 
 | <img width="180" alt="강동훈_profile_img" src="https://github.com/starcradle101/starcradle101/assets/113353436/707efb89-2344-4f79-8080-d3947767a7c5"> | <img width="180"  alt="김소연_profile_img" src="https://github.com/starcradle101/starcradle101/assets/113353436/f3f0197d-2969-4ecf-b907-42b8bc31ade9"> | <img width="180" alt="정준영_profile_img" src="https://github.com/starcradle101/starcradle101/assets/113353436/8661f098-ebe3-4586-a0ab-229bba5532c1"> | <img width="180" alt="최사라_profile_img" src="https://github.com/starcradle101/starcradle101/assets/113353436/db3243c5-1d3b-4010-8547-dabd0034d7eb" > |
 | [starcradle101](https://github.com/starcradle101) | [sy412](https://github.com/sy412) | [DayTeaJun](https://github.com/DayTeaJun) | [developer-sala](https://github.com/developer-sala) |
 | 팀장 | 팀원 | 팀원 | 팀원 |
+
+## 4. 역할분담 
+강동훈
+- 게시글 페이지
+  
+김소연
+- 검색페이지
+  
+정준영
+- 프로필 페이지
+  
+최사라
+- 상품페이지
+  
+공통 작업
+- 공통 컴포넌트
+
+## 5. 프로젝트 목표
+1. 리액트 사용법을 익히고 실력 향상시키기
+   
+2. 협업에 필요한 소프트 스킬 기르기
+   
+3. 누군가와 같이 일하는 프로젝트 환경에 익숙해지기
+
+## 6. 컨벤션
+- Github-flow 전략: 
+
+## 7. 기술 스택 
+
+|사용 기술|  값2|
+|-------|-------|
+| 사용 기술   | 값2   |
+| 패키지   | 값4   |
+| 포맷터   | 값6   |
+| 협업   | 값8   |
+| IDE  | 값10  |
+
+
 
 
