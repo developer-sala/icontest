@@ -152,7 +152,7 @@ https://kr.freepik.com/free-photo/reminder-popup-bell-notification-alert-or-alar
 - 기본 프로필 설정 화면<br> 
 https://kr.freepik.com/free-vector/3d-cartoon-young-woman-smiling-in-circle-frame-character-illustration-vector-design_24325541.htm#query=3d%20kid&position=10&from_view=search&track=ais
 
-- 팔로우한 적이 없는 경우<br>
+- 팔로우한 유저가가 없는 경우<br>
 https://kr.freepik.com/free-photo/view-of-adorable-3d-cat_45138550.htm#query=3d%20cat&position=8&from_view=search&track=ais
 
 - 팔로잉한 유저가 없는 경우<br> 
