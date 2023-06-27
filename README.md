@@ -6,7 +6,7 @@
 ### 목차
 1. [TravelUs 서비스 소개](#1-TravelUs-서비스-소개)
 2. [개발 기간](#2-개발-기간)
-3. [팀 소개](#3팀-소개)
+3. [팀 소개](#3-팀-소개)
 4. [역할 분담](#4-역할-분담)
 5. [프로젝트 목표](#5-프로젝트-목표)
 6. [기능](#6-기능)
@@ -31,9 +31,9 @@
 6/1 - 6/6 : 프로젝트 계획 설립<br>
 6/7 - 6/27 : 공통 컴퍼넌트 개발 → 역할분담별 기능 구현 → 유지보수 
 
-## 3. 팀 소개
+## 3. 팀 소개 <img width="20" src = "https://github.com/starcradle101/starcradle101/assets/113353436/b707fb16-15ec-4e1a-8666-42f08a05be79">
 
-Hello, there! 저희는 4명의 Front-End 개발자로 구성된  <img width="20" src = "https://github.com/starcradle101/starcradle101/assets/113353436/b707fb16-15ec-4e1a-8666-42f08a05be79"> **Fearless 4** 입니다.
+Hello, there! 저희는 4명의 Front-End 개발자로 구성된   **Fearless 4** 입니다.
 저희는 모든 팀원이 MBTI F성격 유형이며, 팀원들과 함께라면 어떤 어려움에도 두려움 없이 도전에 임하겠다는 마음으로 팀명을 Fearless 4로 정하였습니다. 
 
 (<img width="20" src = "https://github.com/FRONTENDSCHOOL5/final-4-/assets/113353436/ed76f0e4-a75a-4db6-9c0d-914a28d20f6d"> LIKELION FE5 Project Team 4)<br>
