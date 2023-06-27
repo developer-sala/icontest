@@ -133,30 +133,30 @@ remove      : 파일을 삭제하는 작업만 수행한 경우
 | IDE  | 값10  |
 
 이미지 출처
-- Splash 화면
-"https://kr.freepik.com/free-photo/view-of-adorable-3d-cat_45138557.htm#page=2&query=3d%20cat&position=4&from_view=search&track=ais"
-"https://kr.freepik.com/free-psd/travel-luggage-icon-isolated-3d-render-illustration_34151495.htm#query=3d%20BAGGAGE&position=13&from_view=search&track=ais"
+- Splash 화면<br>
+https://kr.freepik.com/free-photo/view-of-adorable-3d-cat_45138557.htm#page=2&query=3d%20cat&position=4&from_view=search&track=ais<br>
+https://kr.freepik.com/free-psd/travel-luggage-icon-isolated-3d-render-illustration_34151495.htm#query=3d%20BAGGAGE&position=13&from_view=search&track=ais<br>
 
-- 로그인 화면
-"https://kr.freepik.com/free-photo/view-of-adorable-3d-cat_45138557.htm#page=2&query=3d%20cat&position=4&from_view=search&track=ais"
-"https://kr.freepik.com/free-photo/love-button-notification-alert-on-chat-speech-bubble-notice-reminder-3d-cartoon-illustration_27654463.htm#query=3d%20heart&position=24&from_view=search&track=ais"
+- 로그인 화면<br>
+https://kr.freepik.com/free-photo/view-of-adorable-3d-cat_45138557.htm#page=2&query=3d%20cat&position=4&from_view=search&track=ais<br>
+https://kr.freepik.com/free-photo/love-button-notification-alert-on-chat-speech-bubble-notice-reminder-3d-cartoon-illustration_27654463.htm#query=3d%20heart&position=24&from_view=search&track=ais<br>
 
-- 채팅 화면 
-"https://kr.freepik.com/free-psd/3d-illustration-of-person-with-long-hair_27470372.htm#query=3d%20profile&position=4&from_view=search&track=ais"
-"https://kr.freepik.com/free-photo/cute-woman-hold-hands-gesture-to-empty-spec-business-woman-concept-on-pink-background-3d-rendering_25694156.htm#query=3d%20kid&position=25&from_view=search&track=ais"
+- 채팅 화면<br>
+https://kr.freepik.com/free-psd/3d-illustration-of-person-with-long-hair_27470372.htm#query=3d%20profile&position=4&from_view=search&track=ais<br>
+https://kr.freepik.com/free-photo/cute-woman-hold-hands-gesture-to-empty-spec-business-woman-concept-on-pink-background-3d-rendering_25694156.htm#query=3d%20kid&position=25&from_view=search&track=ais
 
-- 404화면
-"https://kr.freepik.com/free-photo/view-of-adorable-3d-cat_45138556.htm#query=3d%20cat&position=43&from_view=search&track=ais"
-"https://kr.freepik.com/free-photo/reminder-popup-bell-notification-alert-or-alarm-icon-sign-or-symbol-for-application-website-ui-on-purple-background-3d-rendering-illustration_24598564.htm#query=3d%20alert&position=5&from_view=search&track=ais"
+- 404화면<br>
+https://kr.freepik.com/free-photo/view-of-adorable-3d-cat_45138556.htm#query=3d%20cat&position=43&from_view=search&track=ais<br>
+https://kr.freepik.com/free-photo/reminder-popup-bell-notification-alert-or-alarm-icon-sign-or-symbol-for-application-website-ui-on-purple-background-3d-rendering-illustration_24598564.htm#query=3d%20alert&position=5&from_view=search&track=ais
 
-- 기본 프로필 설정 화면 
-"https://kr.freepik.com/free-vector/3d-cartoon-young-woman-smiling-in-circle-frame-character-illustration-vector-design_24325541.htm#query=3d%20kid&position=10&from_view=search&track=ais"
+- 기본 프로필 설정 화면<br> 
+https://kr.freepik.com/free-vector/3d-cartoon-young-woman-smiling-in-circle-frame-character-illustration-vector-design_24325541.htm#query=3d%20kid&position=10&from_view=search&track=ais
 
-- 팔로우한 적이 없는 경우
-"https://kr.freepik.com/free-photo/view-of-adorable-3d-cat_45138550.htm#query=3d%20cat&position=8&from_view=search&track=ais"
+- 팔로우한 적이 없는 경우<br>
+https://kr.freepik.com/free-photo/view-of-adorable-3d-cat_45138550.htm#query=3d%20cat&position=8&from_view=search&track=ais
 
-- 팔로잉한 유저가 없는 경우 
-"https://kr.freepik.com/free-photo/view-of-adorable-3d-cats_45138596.htm#page=2&query=3d%20cat&position=10&from_view=search&track=ais"
+- 팔로잉한 유저가 없는 경우<br> 
+https://kr.freepik.com/free-photo/view-of-adorable-3d-cats_45138596.htm#page=2&query=3d%20cat&position=10&from_view=search&track=ais
 
 
 
