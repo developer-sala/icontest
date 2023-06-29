@@ -14,7 +14,7 @@
 
 
 🤔 코드 리뷰에서 궁금한 점: 
-- 전체 상품, 추천 상품, 할인 상품 버튼을 선택에서 화면에 보여주는 코드가 다 중복이 되는데요, 혹시 중복된 코드를 줄이거나 코드를 개선할 수 있는 방법이 있을까요?
+- 전체 상품, 추천 상품, 할인 상품 버튼을 선택할 때 해당 요건에 맞는 상품이 화면에 보여는 코드가 다 중복이 되는데요, 혹시 중복된 코드를 줄이거나 코드를 개선할 수 있는 방법이 있을까요?
 ```jsx
 const handleShowDiscountedItems = () => {
 		const discountedProducts = resProd.filter((item) =>
@@ -50,11 +50,11 @@ const handleShowDiscountedItems = () => {
 - ProductsForSale.jsx 파일 226 line 수정 버튼 → ProductsForSaleEdit.jsx파일 이동
 
 ✅ 전체 개요 :
-- 상품등록 또는 수정 버튼을 누르면 상품등록/상품수정 페이지로 이동하고 상품에 대한 정보 등록이 능합니다.
+- 상품등록 또는 수정 버튼을 누르면 상품등록/상품수정 페이지로 이동하고 상품에 대한 정보 등록이 가능합니다.
 
 ✅ 기능 내용
 - 상품 등록: 상품명, 가격, 판매링크 모두 입력하면 mMyProfile 페이지에 상품이 등록됩니다.
 - 상품 수정: 상품명, 가격, 판매링크 모두 입력하면 mMyProfile 페이지에 수정된 상품정보가 등록됩니다.
   
 🤔 코드 리뷰에서 궁금한 점: 
-- MyProfile.jsx 파일 195 line 상품 등록 버튼 → ProductsForSale.jsx파일 이동하여 상품 등록을 할 수 있고, ProductsForSale.jsx 파일 226 line 수정 버튼 → ProductsForSaleEdit.jsx파일 이동하면 상품 수정을 할 수 있는데 상품 등록페이지와 상품 수정 페이지가 사실상 양식은 거의 비슷합니다.(method에는 차이점이 있습니다. 등록: POST, 수정: PUT) 단지 수정페이지는 기존 등록되어 있는 정보를 가져오는 것만 다릅니다. 중복된 페이지라고 생각이 드는데 두 페이지를 합치거나 더 효율적인 방법이 없을까요? 
+- MyProfile.jsx 파일 195 line 상품 등록 버튼 → ProductsForSale.jsx파일 이동하여 상품 등록을 할 수 있고, ProductsForSale.jsx 파일 226 line 수정 버튼 → ProductsForSaleEdit.jsx파일 이동하면 상품 수정을 할 수 있는데 상품 등록페이지와 상품 수정 페이지가 사실상 양식(코드)은 거의 비슷합니다.(method에는 차이점이 있습니다. 등록: POST, 수정: PUT  + 수정페이지는 기존 등록되어 있는 정보를 가져옵니다.) 두 페이지가 중복된 페이지라고 생각이 드는데 두 페이지를 합치거나 더 효율적인 코드를 줄이는 방법이 없을까요? 
